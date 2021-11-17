@@ -1,0 +1,12 @@
+.todo{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.addTaskInput{
+    height: 40px;
+    width:200px;
+    margin-right: 10px;
+}
+.addButton{
+    height: 40px;
+}
